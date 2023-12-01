@@ -10,10 +10,7 @@ Este repositório contém uma coleção de projetos desenvolvidos durante a disc
 ## Trabalhos
 
 ### Trabalho 1: [Rasterização de Linhas]
-- [Descrição breve do projeto]
-- [Detalhes adicionais, como tecnologias utilizadas]
-Estarei preenchendo mais tarde
-- [Texto sobre o projeto...]
+Este projeto explora a rasterização de linhas, destacando três principais algoritmos: analítico, DDA e Bresenham. A aplicação desenvolvida visa exemplificar o funcionamento desses algoritmos, analisando sua precisão e eficiência.
 
 ### Trabalho 2: [Rasterização de Circunferências]
 - [Descrição breve do projeto]
